@@ -1,0 +1,5 @@
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+
+BOOTLOADER = atmel-dfu
+
